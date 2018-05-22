@@ -1,0 +1,23 @@
+00000
+.. hphones
+.. microph
+.. mcstnds
+.. popfltr
+.. xlr-cbl
+11111
+* ipad fully charged
+* usb charing hub
+* adapter/card reader
+** camera (guest photo)
+22222
+% intro blobs
+% note-like things
+% sketchbook for perspct
+% water for drinking
+% snacks for crunch
+% clock 
+33333
+checks -- all charged
+checks -- signal
+checks -- levels
+
